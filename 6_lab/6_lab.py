@@ -2,7 +2,6 @@ import numpy
 import scipy.stats
 import matplotlib.pyplot
 
-N_points = 100000
 n_bins = 20
 
 dist = numpy.random.normal(50, 1, 100)

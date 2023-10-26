@@ -1,0 +1,38 @@
+{
+    "id": {
+        "255": 255
+    },
+    "work_year": {
+        "255": 2021
+    },
+    "experience_level": {
+        "255": "SE"
+    },
+    "employment_type": {
+        "255": "FT"
+    },
+    "job_title": {
+        "255": "Big Data Architect"
+    },
+    "salary": {
+        "255": 125000
+    },
+    "salary_currency": {
+        "255": "CAD"
+    },
+    "salary_in_usd": {
+        "255": 99703
+    },
+    "employee_residence": {
+        "255": "CA"
+    },
+    "remote_ratio": {
+        "255": 50
+    },
+    "company_location": {
+        "255": "CA"
+    },
+    "company_size": {
+        "255": "M"
+    }
+}

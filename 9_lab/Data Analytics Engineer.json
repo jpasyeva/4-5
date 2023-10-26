@@ -1,0 +1,74 @@
+{
+    "id": {
+        "80": 80,
+        "87": 87,
+        "186": 186,
+        "514": 514
+    },
+    "work_year": {
+        "80": 2021,
+        "87": 2021,
+        "186": 2021,
+        "514": 2022
+    },
+    "experience_level": {
+        "80": "SE",
+        "87": "MI",
+        "186": "SE",
+        "514": "EN"
+    },
+    "employment_type": {
+        "80": "FT",
+        "87": "FT",
+        "186": "FT",
+        "514": "FT"
+    },
+    "job_title": {
+        "80": "Data Analytics Engineer",
+        "87": "Data Analytics Engineer",
+        "186": "Data Analytics Engineer",
+        "514": "Data Analytics Engineer"
+    },
+    "salary": {
+        "80": 67000,
+        "87": 110000,
+        "186": 50000,
+        "514": 20000
+    },
+    "salary_currency": {
+        "80": "EUR",
+        "87": "USD",
+        "186": "USD",
+        "514": "USD"
+    },
+    "salary_in_usd": {
+        "80": 79197,
+        "87": 110000,
+        "186": 50000,
+        "514": 20000
+    },
+    "employee_residence": {
+        "80": "DE",
+        "87": "US",
+        "186": "VN",
+        "514": "PK"
+    },
+    "remote_ratio": {
+        "80": 100,
+        "87": 100,
+        "186": 100,
+        "514": 0
+    },
+    "company_location": {
+        "80": "DE",
+        "87": "US",
+        "186": "GB",
+        "514": "PK"
+    },
+    "company_size": {
+        "80": "L",
+        "87": "L",
+        "186": "M",
+        "514": "M"
+    }
+}
