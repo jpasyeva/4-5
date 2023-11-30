@@ -1,1 +1,4 @@
 venv/
+./13_lab/application_data.csv
+./13_lab/columns_description.csv
+./13_lab/previous_application.csv
