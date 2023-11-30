@@ -159,7 +159,7 @@ def get_aver_exp_for_level(conn):
 
 """Выведите фамилию сотрудника и название отдела, в котором он работает"""
 def get_employees_with_departments(conn):
-    cur = conn.cursor()
+    cur = conn.cursor() 
     cur.execute("SELECT full_name, department_name FROM employees")
     print(tabulate(cur.fetchall()))
 
